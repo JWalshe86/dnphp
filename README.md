@@ -1,5 +1,5 @@
 # dnphp
 
 
-![altdd text](./media/media/nginx-renders-default.conf.png?raw=true)
+![aliiitdd text](./nginx-renders-default.conf.png?raw=true)
 
